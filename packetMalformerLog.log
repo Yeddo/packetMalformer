@@ -1,0 +1,193 @@
+2024-06-19 14:02:33,794 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.122.2:63997 > 192.168.122.2:80 / Raw
+2024-06-19 14:14:45,413 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.122.2:24110 > 192.168.122.2:80
+2024-06-19 14:15:20,236 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.122.2:16673 > 192.168.122.2:systat
+2024-06-19 14:15:45,739 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.122.2:16994 > 192.168.122.2:systat
+2024-06-19 14:15:57,319 - Sent UDP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 udp / Raw
+2024-06-19 15:49:49,657 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.122.2:36340 > 192.168.122.2:systat
+2024-06-20 15:00:17,181 - Mac address to reach destination not found. Using broadcast.
+2024-06-20 15:00:17,259 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.0.69:13528 > 192.168.2.165:systat / Raw
+2024-06-20 15:01:14,304 - Mac address to reach destination not found. Using broadcast.
+2024-06-20 15:01:14,304 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.5.69:32241 > 192.168.2.165:systat / Raw
+2024-06-20 15:02:22,393 - Mac address to reach destination not found. Using broadcast.
+2024-06-20 15:02:22,393 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.3.69:45284 > 192.168.2.165:systat / Raw
+2024-06-20 15:02:37,955 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.4.69:37568 > 192.168.2.150:systat / Raw
+2024-06-20 15:03:30,023 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.3.69:37333 > 192.168.2.150:systat
+2024-06-20 15:04:02,157 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.3.69:56804 > 192.168.2.150:systat
+2024-06-20 15:04:37,931 - Mac address to reach destination not found. Using broadcast.
+2024-06-20 15:04:37,931 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.1.69:5839 > 192.168.2.165:systat
+2024-06-20 15:04:39,931 - Mac address to reach destination not found. Using broadcast.
+2024-06-20 15:04:39,934 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.1.69:31597 > 192.168.2.165:systat
+2024-06-20 15:04:41,950 - more Mac address to reach destination not found. Using broadcast.
+2024-06-20 15:04:41,950 - Sent UDP packet with ip_fragmentation malformation: 192.168.1.69 > 192.168.2.165 udp / Raw
+2024-06-20 15:04:43,950 - Mac address to reach destination not found. Using broadcast.
+2024-06-20 15:04:43,950 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.1.69:27936 > 192.168.2.165:systat / Raw
+2024-06-20 15:05:56,272 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.2.69:64875 > 192.168.2.165:systat
+2024-06-20 15:05:56,272 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.2.69:59364 > 192.168.2.165:systat
+2024-06-20 15:05:56,272 - Sent UDP packet with ip_fragmentation malformation: 192.168.2.69 > 192.168.2.165 udp / Raw
+2024-06-20 15:05:56,288 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.2.69:47914 > 192.168.2.165:systat / Raw
+2024-06-20 15:08:52,693 - Mac address to reach destination not found. Using broadcast.
+2024-06-20 15:08:52,693 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.1.69:22343 > 192.168.2.165:systat / Raw
+2024-06-20 15:09:22,741 - Mac address to reach destination not found. Using broadcast.
+2024-06-20 15:09:22,741 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.4.69:2452 > 192.168.2.165:systat
+2024-06-20 15:09:24,742 - Mac address to reach destination not found. Using broadcast.
+2024-06-20 15:09:24,742 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.4.69:35020 > 192.168.2.165:systat
+2024-06-20 15:09:26,757 - more Mac address to reach destination not found. Using broadcast.
+2024-06-20 15:09:26,757 - Sent UDP packet with ip_fragmentation malformation: 192.168.4.69 > 192.168.2.165 udp / Raw
+2024-06-20 15:09:28,772 - Mac address to reach destination not found. Using broadcast.
+2024-06-20 15:09:28,772 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.4.69:38595 > 192.168.2.165:systat / Raw
+2024-06-20 15:11:20,750 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.2.253:20038 > 192.168.2.165:systat
+2024-06-20 15:11:20,750 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.2.253:34447 > 192.168.2.165:systat
+2024-06-20 15:11:20,750 - Sent UDP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 udp / Raw
+2024-06-20 15:11:20,750 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.2.253:39614 > 192.168.2.165:systat / Raw
+2024-06-20 15:11:39,485 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.2.253:35183 > 192.168.2.165:systat
+2024-06-20 15:11:56,849 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.2.253:54496 > 192.168.2.150:systat / Raw
+2024-06-20 15:12:21,417 - Sent UDP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 udp / Raw
+2024-06-20 15:13:01,847 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp / Raw
+2024-06-20 15:13:01,847 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp frag:1 / Raw
+2024-06-20 15:13:01,847 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp frag:2 / Raw
+2024-06-20 15:22:46,800 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.2.253:32313 > 192.168.2.165:4999 / Raw
+2024-06-20 15:23:43,898 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.2.253:12317 > 192.168.2.165:4999
+2024-06-20 15:23:43,898 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.2.253:6642 > 192.168.2.165:4999
+2024-06-20 15:23:43,898 - Sent UDP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 udp / Raw
+2024-06-20 15:23:43,914 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.2.253:41039 > 192.168.2.165:4999 / Raw
+2024-06-20 15:24:34,736 - Sent UDP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 udp / Raw
+2024-06-20 15:24:51,189 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.2.253:36874 > 192.168.2.165:systat
+2024-06-20 15:25:05,300 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.2.253:50454 > 192.168.2.165:systat
+2024-06-20 15:25:05,300 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.2.253:51326 > 192.168.2.165:systat
+2024-06-20 15:25:05,300 - Sent UDP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 udp / Raw
+2024-06-20 15:25:05,315 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.2.253:27630 > 192.168.2.165:systat / Raw
+2024-06-20 15:25:23,854 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.2.253:9094 > 192.168.2.165:systat
+2024-06-20 15:25:37,870 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.2.253:20476 > 192.168.2.165:systat
+2024-06-20 15:25:45,934 - Sent UDP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 udp / Raw
+2024-06-20 15:26:09,309 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.2.253:39606 > 192.168.2.165:systat / Raw
+2024-06-20 15:26:20,559 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.2.253:61130 > 192.168.2.165:systat
+2024-06-20 15:26:20,574 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.2.253:48631 > 192.168.2.165:systat
+2024-06-20 15:26:20,574 - Sent UDP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 udp / Raw
+2024-06-20 15:26:20,574 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.2.253:37768 > 192.168.2.165:systat / Raw
+2024-06-20 15:26:41,280 - Sent TCP packet with invalid_length malformation: IP / TCP 192.168.2.253:16064 > 192.168.2.165:systat A
+2024-06-20 15:26:41,295 - Sent TCP packet with checksum_error malformation: IP / TCP 192.168.2.253:45776 > 192.168.2.165:systat A
+2024-06-20 15:26:41,295 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp / Raw
+2024-06-20 15:26:41,295 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp frag:1 / Raw
+2024-06-20 15:26:41,295 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp frag:2 / Raw
+2024-06-20 15:26:41,295 - Sent TCP packet with payload_error malformation: IP / TCP 192.168.2.253:54953 > 192.168.2.165:systat A / Raw
+2024-06-20 15:26:58,447 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.2.253:5747 > 192.168.2.165:ms_wbt_server
+2024-06-20 15:26:58,463 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.2.253:36844 > 192.168.2.165:ms_wbt_server
+2024-06-20 15:26:58,463 - Sent UDP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 udp / Raw
+2024-06-20 15:26:58,463 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.2.253:65302 > 192.168.2.165:ms_wbt_server / Raw
+2024-06-20 15:33:44,987 - Sent TCP packet with invalid_length malformation: IP / TCP 192.168.2.253:43029 > 192.168.2.165:9999 F
+2024-06-20 15:33:44,987 - Sent TCP packet with checksum_error malformation: IP / TCP 192.168.2.253:40907 > 192.168.2.165:9999 F
+2024-06-20 15:33:45,002 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp / Raw
+2024-06-20 15:33:45,002 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp frag:1 / Raw
+2024-06-20 15:33:45,002 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp frag:2 / Raw
+2024-06-20 15:33:45,002 - Sent TCP packet with payload_error malformation: IP / TCP 192.168.2.253:32334 > 192.168.2.165:9999 F / Raw
+2024-06-20 15:38:09,787 - Sent TCP packet with invalid_length malformation: IP / TCP 192.168.2.253:57992 > 192.168.2.165:ms_wbt_server A
+2024-06-20 15:38:09,787 - Sent TCP packet with checksum_error malformation: IP / TCP 192.168.2.253:41394 > 192.168.2.165:ms_wbt_server A
+2024-06-20 15:38:09,802 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp / Raw
+2024-06-20 15:38:09,802 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp frag:1 / Raw
+2024-06-20 15:38:09,802 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp frag:2 / Raw
+2024-06-20 15:38:09,802 - Sent TCP packet with payload_error malformation: IP / TCP 192.168.2.253:25926 > 192.168.2.165:ms_wbt_server A / Raw
+2024-06-20 15:40:29,083 - Sent TCP packet with invalid_length malformation: IP / TCP 192.168.2.253:62818 > 192.168.2.165:8080 A
+2024-06-20 15:40:29,083 - Sent TCP packet with checksum_error malformation: IP / TCP 192.168.2.253:61232 > 192.168.2.165:8080 A
+2024-06-20 15:40:29,083 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp / Raw
+2024-06-20 15:40:29,083 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp frag:1 / Raw
+2024-06-20 15:40:29,083 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp frag:2 / Raw
+2024-06-20 15:40:29,099 - Sent TCP packet with payload_error malformation: IP / TCP 192.168.2.253:39139 > 192.168.2.165:8080 A / Raw
+2024-06-20 15:41:22,717 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.2.253:35987 > 192.168.2.165:8080
+2024-06-20 15:41:22,717 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.2.253:44835 > 192.168.2.165:8080
+2024-06-20 15:41:22,717 - Sent UDP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 udp / Raw
+2024-06-20 15:41:22,732 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.2.253:39026 > 192.168.2.165:8080 / Raw
+2024-06-20 15:41:39,515 - Sent TCP packet with invalid_length malformation: IP / TCP 192.168.2.253:15368 > 192.168.2.150:8080 A
+2024-06-20 15:41:39,515 - Sent TCP packet with checksum_error malformation: IP / TCP 192.168.2.253:28076 > 192.168.2.150:8080 A
+2024-06-20 15:41:39,530 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.150 tcp / Raw
+2024-06-20 15:41:39,530 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.150 tcp frag:1 / Raw
+2024-06-20 15:41:39,530 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.150 tcp frag:2 / Raw
+2024-06-20 15:41:39,530 - Sent TCP packet with payload_error malformation: IP / TCP 192.168.2.253:48782 > 192.168.2.150:8080 A / Raw
+2024-06-20 15:43:08,844 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.2.253:30650 > 192.168.2.165:11111
+2024-06-20 15:43:08,844 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.2.253:43557 > 192.168.2.165:11111
+2024-06-20 15:43:08,860 - Sent UDP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 udp / Raw
+2024-06-20 15:43:08,860 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.2.253:34560 > 192.168.2.165:11111 / Raw
+2024-06-26 13:54:19,549 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.2.253:38172 > 192.168.2.165:4337
+2024-06-26 13:55:02,554 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.2.253:32656 > 192.168.2.165:4337
+2024-06-26 13:55:02,562 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.2.253:65096 > 192.168.2.165:4337
+2024-06-26 13:55:02,570 - Sent UDP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 udp / Raw
+2024-06-26 13:55:02,570 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.2.253:45515 > 192.168.2.165:4337 / Raw
+2024-06-26 13:56:47,129 - Sent TCP packet with invalid_length malformation: IP / TCP 192.168.2.253:35504 > 192.168.2.165:4337 R
+2024-06-26 13:56:47,129 - Sent TCP packet with checksum_error malformation: IP / TCP 192.168.2.253:38820 > 192.168.2.165:4337 R
+2024-06-26 13:56:47,145 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp / Raw
+2024-06-26 13:56:47,145 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp frag:1 / Raw
+2024-06-26 13:56:47,145 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp frag:2 / Raw
+2024-06-26 13:56:47,145 - Sent TCP packet with payload_error malformation: IP / TCP 192.168.2.253:44691 > 192.168.2.165:4337 R / Raw
+2024-06-26 13:57:48,431 - Sent TCP packet with invalid_length malformation: IP / TCP 192.168.2.253:61493 > 192.168.2.165:4337 R
+2024-06-26 13:57:48,446 - Sent TCP packet with checksum_error malformation: IP / TCP 192.168.2.253:33203 > 192.168.2.165:4337 R
+2024-06-26 13:57:48,446 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp / Raw
+2024-06-26 13:57:48,446 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp frag:1 / Raw
+2024-06-26 13:57:48,446 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp frag:2 / Raw
+2024-06-26 13:57:48,446 - Sent TCP packet with payload_error malformation: IP / TCP 192.168.2.253:51338 > 192.168.2.165:4337 R / Raw
+2024-06-26 13:58:59,095 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.2.253:33871 > 192.168.2.165:4337
+2024-06-26 13:58:59,095 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.2.253:65327 > 192.168.2.165:4337
+2024-06-26 13:58:59,110 - Sent UDP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 udp / Raw
+2024-06-26 13:58:59,110 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.2.253:56851 > 192.168.2.165:4337 / Raw
+2024-06-26 13:59:41,088 - Sent TCP packet with invalid_length malformation: IP / TCP 192.168.2.253:55233 > 192.168.2.165:4337 F
+2024-06-26 13:59:41,098 - Sent TCP packet with checksum_error malformation: IP / TCP 192.168.2.253:62297 > 192.168.2.165:4337 F
+2024-06-26 13:59:41,103 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp / Raw
+2024-06-26 13:59:41,103 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp frag:1 / Raw
+2024-06-26 13:59:41,103 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp frag:2 / Raw
+2024-06-26 13:59:41,106 - Sent TCP packet with payload_error malformation: IP / TCP 192.168.2.253:6446 > 192.168.2.165:4337 F / Raw
+2024-06-26 14:01:58,302 - Sent TCP packet with invalid_length malformation: IP / TCP 192.168.2.253:19212 > 192.168.2.165:8080 S
+2024-06-26 14:01:58,302 - Sent TCP packet with checksum_error malformation: IP / TCP 192.168.2.253:55979 > 192.168.2.165:8080 S
+2024-06-26 14:01:58,317 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp / Raw
+2024-06-26 14:01:58,317 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp frag:1 / Raw
+2024-06-26 14:01:58,317 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp frag:2 / Raw
+2024-06-26 14:01:58,317 - Sent TCP packet with payload_error malformation: IP / TCP 192.168.2.253:64828 > 192.168.2.165:8080 S / Raw
+2024-07-29 13:08:29,194 - Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:08:29,363 - Sent TCP packet with invalid_length malformation: IP / TCP 192.168.2.253:53912 > 192.168.2.165:4444 S
+2024-07-29 13:08:31,375 - Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:08:31,375 - Sent TCP packet with checksum_error malformation: IP / TCP 192.168.2.253:63548 > 192.168.2.165:4444 S
+2024-07-29 13:08:33,384 - more Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:08:35,389 - Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:08:37,402 - Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:08:37,402 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp / Raw
+2024-07-29 13:08:37,402 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp frag:1 / Raw
+2024-07-29 13:08:37,402 - Sent TCP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 tcp frag:2 / Raw
+2024-07-29 13:08:39,408 - more Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:08:39,408 - Sent TCP packet with payload_error malformation: IP / TCP 192.168.2.253:54329 > 192.168.2.165:4444 S / Raw
+2024-07-29 13:09:22,227 - Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:09:22,236 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.2.253:18713 > 192.168.2.165:4444
+2024-07-29 13:09:24,250 - Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:09:24,250 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.2.253:62831 > 192.168.2.165:4444
+2024-07-29 13:09:26,252 - more Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:09:26,252 - Sent UDP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 udp / Raw
+2024-07-29 13:09:28,252 - Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:09:28,254 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.2.253:60966 > 192.168.2.165:4444 / Raw
+2024-07-29 13:20:23,234 - Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:20:23,243 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.2.253:7633 > 192.168.2.165:4444
+2024-07-29 13:20:25,255 - Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:20:25,255 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.2.253:14764 > 192.168.2.165:4444
+2024-07-29 13:20:27,259 - more Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:20:27,266 - Sent UDP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 udp / Raw
+2024-07-29 13:20:29,270 - Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:20:29,277 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.2.253:5948 > 192.168.2.165:4444 / Raw
+2024-07-29 13:27:34,804 - Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:27:34,812 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.2.253:16186 > 192.168.2.165:44444
+2024-07-29 13:27:36,828 - Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:27:36,829 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.2.253:23370 > 192.168.2.165:44444
+2024-07-29 13:27:38,849 - more Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:27:38,849 - Sent UDP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 udp / Raw
+2024-07-29 13:27:40,860 - Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:27:40,860 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.2.253:17249 > 192.168.2.165:44444 / Raw
+2024-07-29 13:28:27,566 - Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:28:27,577 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.2.253:3239 > 192.168.2.165:44444
+2024-07-29 13:28:29,589 - Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:28:29,596 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.2.253:62407 > 192.168.2.165:44444
+2024-07-29 13:28:31,612 - more Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:28:31,612 - Sent UDP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 udp / Raw
+2024-07-29 13:28:33,635 - Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:28:33,635 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.2.253:34264 > 192.168.2.165:44444 / Raw
+2024-07-29 13:29:34,133 - Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:29:34,133 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.2.253:39071 > 192.168.2.165:44444
+2024-07-29 13:29:36,153 - Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:29:36,153 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.2.253:47299 > 192.168.2.165:44444
+2024-07-29 13:29:38,154 - more Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:29:38,156 - Sent UDP packet with ip_fragmentation malformation: 192.168.2.253 > 192.168.2.165 udp / Raw
+2024-07-29 13:29:40,160 - Mac address to reach destination not found. Using broadcast.
+2024-07-29 13:29:40,160 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.2.253:51966 > 192.168.2.165:44444 / Raw

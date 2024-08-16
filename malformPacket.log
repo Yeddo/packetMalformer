@@ -1,0 +1,18 @@
+2024-06-19 13:16:35,931 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.122.2:34478 > 192.168.122.2:80
+2024-06-19 13:16:35,931 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.122.2:17563 > 192.168.122.2:80
+2024-06-19 13:16:35,931 - Sent UDP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 udp / Raw
+2024-06-19 13:16:35,947 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.122.2:11202 > 192.168.122.2:80 / Raw
+2024-06-19 13:17:26,095 - Sent TCP packet with invalid_length malformation: IP / TCP 192.168.122.2:19157 > 192.168.122.2:http F
+2024-06-19 13:17:26,095 - Sent TCP packet with checksum_error malformation: IP / TCP 192.168.122.2:63000 > 192.168.122.2:http F
+2024-06-19 13:17:26,111 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp / Raw
+2024-06-19 13:17:26,111 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp frag:1 / Raw
+2024-06-19 13:17:26,111 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp frag:2 / Raw
+2024-06-19 13:17:26,111 - Sent TCP packet with payload_error malformation: IP / TCP 192.168.122.2:29752 > 192.168.122.2:http F / Raw
+2024-06-19 13:17:51,448 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.122.2:43124 > 192.168.122.2:80 / Raw
+2024-06-19 13:18:18,742 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.122.2:6340 > 192.168.122.2:80
+2024-06-19 13:18:18,742 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.122.2:24920 > 192.168.122.2:80
+2024-06-19 13:18:18,742 - Sent UDP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 udp / Raw
+2024-06-19 13:18:18,742 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.122.2:42030 > 192.168.122.2:80 / Raw
+2024-06-19 13:18:52,857 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.122.2:59109 > 192.168.122.2:80
+2024-06-19 13:18:52,860 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.122.2:65165 > 192.168.122.2:80
+2024-06-19 13:18:52,863 - Sent UDP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 udp / Raw

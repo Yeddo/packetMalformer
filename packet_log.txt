@@ -1,0 +1,58 @@
+2024-06-19 13:03:01,303 - Sent TCP packet with invalid_length malformation: IP / TCP 192.168.122.2:61544 > 192.168.122.2:http S
+2024-06-19 13:03:34,189 - Sent TCP packet with invalid_length malformation: IP / TCP 192.168.122.2:58162 > 192.168.122.2:http S
+2024-06-19 13:03:51,412 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.122.2:59857 > 192.168.122.2:80
+2024-06-19 13:04:39,628 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp / Raw
+2024-06-19 13:04:39,628 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp frag:1 / Raw
+2024-06-19 13:04:39,628 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp frag:2 / Raw
+2024-06-19 13:05:27,713 - Sent TCP packet with invalid_length malformation: IP / TCP 192.168.122.2:53973 > 192.168.122.2:http F
+2024-06-19 13:05:27,713 - Sent TCP packet with checksum_error malformation: IP / TCP 192.168.122.2:28380 > 192.168.122.2:http F
+2024-06-19 13:05:27,713 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp / Raw
+2024-06-19 13:05:27,713 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp frag:1 / Raw
+2024-06-19 13:05:27,713 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp frag:2 / Raw
+2024-06-19 13:05:27,713 - Sent TCP packet with payload_error malformation: IP / TCP 192.168.122.2:2719 > 192.168.122.2:http F / Raw
+2024-06-19 13:06:16,971 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.122.2:46473 > 192.168.122.2:80 / Raw
+2024-06-19 13:13:09,152 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp / Raw
+2024-06-19 13:13:09,152 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp frag:1 / Raw
+2024-06-19 13:13:09,152 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp frag:2 / Raw
+2024-06-19 13:23:16,607 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.122.2:32228 > 192.168.122.2:80
+2024-06-19 13:23:16,607 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.122.2:32654 > 192.168.122.2:80
+2024-06-19 13:23:16,622 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.122.2:4423 > 192.168.122.2:80 / Raw
+2024-06-19 13:25:23,855 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.122.2:59055 > 192.168.122.2:80
+2024-06-19 13:25:23,855 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.122.2:56613 > 192.168.122.2:80
+2024-06-19 13:25:23,855 - Sent UDP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 udp / Raw
+2024-06-19 13:25:23,855 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.122.2:11260 > 192.168.122.2:80 / Raw
+2024-06-19 13:25:45,440 - Sent TCP packet with invalid_length malformation: IP / TCP 192.168.122.2:59393 > 192.168.122.2:http R
+2024-06-19 13:25:45,440 - Sent TCP packet with checksum_error malformation: IP / TCP 192.168.122.2:57693 > 192.168.122.2:http R
+2024-06-19 13:25:45,440 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp / Raw
+2024-06-19 13:25:45,440 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp frag:1 / Raw
+2024-06-19 13:25:45,440 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp frag:2 / Raw
+2024-06-19 13:25:45,440 - Sent TCP packet with payload_error malformation: IP / TCP 192.168.122.2:59249 > 192.168.122.2:http R / Raw
+2024-06-19 13:25:59,937 - Sent TCP packet with payload_error malformation: IP / TCP 192.168.122.2:1171 > 192.168.122.2:http S / Raw
+2024-06-19 13:26:14,407 - Sent TCP packet with invalid_length malformation: IP / TCP 192.168.122.2:49495 > 192.168.122.2:http S
+2024-06-19 13:26:14,407 - Sent TCP packet with checksum_error malformation: IP / TCP 192.168.122.2:65458 > 192.168.122.2:http S
+2024-06-19 13:26:14,407 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp / Raw
+2024-06-19 13:26:14,407 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp frag:1 / Raw
+2024-06-19 13:26:14,407 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp frag:2 / Raw
+2024-06-19 13:26:14,423 - Sent TCP packet with payload_error malformation: IP / TCP 192.168.122.2:6887 > 192.168.122.2:http S / Raw
+2024-07-29 13:03:08,426 - Sent TCP packet with invalid_length malformation: IP / TCP 192.168.122.2:52739 > 192.168.122.2:http S
+2024-07-29 13:03:08,426 - Sent TCP packet with checksum_error malformation: IP / TCP 192.168.122.2:23115 > 192.168.122.2:http S
+2024-07-29 13:03:08,442 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp / Raw
+2024-07-29 13:03:08,442 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp frag:1 / Raw
+2024-07-29 13:03:08,442 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp frag:2 / Raw
+2024-07-29 13:03:08,457 - Sent TCP packet with payload_error malformation: IP / TCP 192.168.122.2:56636 > 192.168.122.2:http S / Raw
+2024-07-29 13:04:08,633 - Sent TCP packet with invalid_length malformation: IP / TCP 192.168.122.2:53207 > 192.168.122.2:http F
+2024-07-29 13:04:08,649 - Sent TCP packet with checksum_error malformation: IP / TCP 192.168.122.2:17643 > 192.168.122.2:http F
+2024-07-29 13:04:08,665 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp / Raw
+2024-07-29 13:04:08,665 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp frag:1 / Raw
+2024-07-29 13:04:08,665 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp frag:2 / Raw
+2024-07-29 13:04:08,665 - Sent TCP packet with payload_error malformation: IP / TCP 192.168.122.2:18098 > 192.168.122.2:http F / Raw
+2024-07-29 13:05:11,378 - Sent TCP packet with invalid_length malformation: IP / TCP 192.168.122.2:11007 > 192.168.122.2:http S
+2024-07-29 13:05:11,386 - Sent TCP packet with checksum_error malformation: IP / TCP 192.168.122.2:2426 > 192.168.122.2:http S
+2024-07-29 13:05:11,390 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp / Raw
+2024-07-29 13:05:11,391 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp frag:1 / Raw
+2024-07-29 13:05:11,391 - Sent TCP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 tcp frag:2 / Raw
+2024-07-29 13:05:11,391 - Sent TCP packet with payload_error malformation: IP / TCP 192.168.122.2:21843 > 192.168.122.2:http S / Raw
+2024-07-29 13:05:55,497 - Sent UDP packet with invalid_length malformation: IP / UDP 192.168.122.2:27443 > 192.168.122.2:80
+2024-07-29 13:05:55,508 - Sent UDP packet with checksum_error malformation: IP / UDP 192.168.122.2:7896 > 192.168.122.2:80
+2024-07-29 13:05:55,508 - Sent UDP packet with ip_fragmentation malformation: 192.168.122.2 > 192.168.122.2 udp / Raw
+2024-07-29 13:05:55,523 - Sent UDP packet with payload_error malformation: IP / UDP 192.168.122.2:26779 > 192.168.122.2:80 / Raw
