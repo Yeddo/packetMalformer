@@ -1,7 +1,7 @@
 """
 Script Name: packetMalformer_v2.py
-Author: Jason Bisnette
-Email: bisnettj@gdls.com
+Author: JB
+Email: 
 
 Description:
 This script generates and sends malformed packets over specified network interfaces on Windows,
